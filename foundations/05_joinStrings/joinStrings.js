@@ -8,6 +8,16 @@
 */
 
 // Add your code right below, good luck!
+ const first= `Carlos`;
+ const last= `Stevenson`;
+ const this_year = 1965;
+ const birth_year = 1947;
+
+ const fullName = `${first} + ${last}`;
+
+
+ const greeting = (`Hello! My name is ${fullName} and I am (${this_year}-${birth_year})`)
+
 
 
 
